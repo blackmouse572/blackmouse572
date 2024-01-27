@@ -1,4 +1,6 @@
-### Olá fellow, Jaden Here
+### Olá fellow, Jaden Here 👋
+
+![Static Badge](https://img.shields.io/badge/Typescript?logo=typescript&label=Typescript)
 
 <table>
    <tr>
@@ -11,7 +13,17 @@
 </a>
     </th>
     <th>
-      Software Engineer
+       <ul align="start">
+          <li>
+       Software Engineer
+          </li>
+          <li>
+        Reach me at <a href="https://mail.google.com/mail/u/0/?fs=1&to=ngocnt.job@gmail.com&su=Hi&body=Hello+Jaden,&tf=cm" target="_blank">ngocnt.job@gmail.com</a>
+          </li>
+          <li>
+       Or checkout <a href="https://portfolio-five-theta-76.vercel.app/" target="_blank" style="display: block" align="center">My Portfolio</a>
+          </li>
+       </ul>
     </th>
    </tr>
 </table>
