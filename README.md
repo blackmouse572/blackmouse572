@@ -1,7 +1,13 @@
 ### Olá fellow, Jaden Here 👋
-
-![Static Badge](https://img.shields.io/badge/Typescript?logo=typescript&label=Typescript)
-
+<div>
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/typescript.svg" height="50" style="display: inline">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go/go.png" height="50" style="display: inline">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="50" style="display: inline">
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/databases/mongodb.svg" height="50" style="display: inline">
+ <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/databases/postgresql.svg" height="50" style="display: inline">
+   <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/frameworks/react.svg" height="50" style="display: inline">
+      <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/tools/figma.png?raw=true" height="50" style="display: inline">
+</div>
 <table>
    <tr>
     <th>
